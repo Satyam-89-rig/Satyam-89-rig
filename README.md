@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Engineer and B.Tech student passionate about AI,<br> Machine Learning, and modern technologies. Skilled in C, Python, and <br>web development, with a strong interest in building impactful and<br> innovative projects. Always eager to learn, collaborate, and contribute <br>to open-source communities while continuously improving technical<br> skills.<br>
+Aspiring Software Engineer and B.Tech student passionate about AI, Machine Learning, and modern technologies. Skilled in C, Python, and web development, with a strong interest in building impactful and innovative projects. Always eager to learn, collaborate, and contribute to open-source communities while continuously improving technical skills.<br>
 
 
 ## 🌐 Socials:
